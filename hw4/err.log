@@ -1,0 +1,4 @@
+mat_type 0
+[Taichi] version 1.6.0, llvm 15.0.7, commit f1c6fbbd, osx, python 3.10.10
+[Taichi] Starting on arch=arm64
+[Hint] Press R to reset. Press l/j/s to change particle_material to liquid/jelly/snow
